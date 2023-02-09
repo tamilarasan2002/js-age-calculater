@@ -1,0 +1,26 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: antiquewhite;
+
+}
+input,button{
+    padding: 1rem;
+    font-size: 1rem;
+    margin: 1rem 0;
+}.row{
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(216, 216, 116);
+    padding: 3rem;
+}
+
+.output{
+    display: flex;
+    
+}
+.output input{
+    width: 333.3;
+}
